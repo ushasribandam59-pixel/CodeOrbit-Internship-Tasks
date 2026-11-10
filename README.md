@@ -1,38 +1,63 @@
-# Simple Calculator
+# CodeOrbit Internship – Python Projects
 
-## Project Description
+## About
+This repository contains the Python projects completed as part of my CodeOrbit internship. These projects helped me improve my Python programming skills and understand practical programming concepts.
 
-A GUI-based Simple Calculator developed using Python.
-It performs basic arithmetic operations.
+## Projects
 
-## Features
+### Task 1: Simple Calculator
+A simple Python calculator that performs basic arithmetic operations.
 
+**Features:**
 - Addition
 - Subtraction
 - Multiplication
 - Division
-- Division by zero handling
-- Clear and backspace buttons
-- User-friendly graphical interface
+- User-friendly menu-driven program
 
-## Technologies Used
+**Technologies Used:** Python
 
-- Python
-- Tkinter
+**Files:**
+- `main.py`
+- `calculator.py`
+- `operations.py`
+
+### Task 2: To-Do List CLI App
+A command-line To-Do List application that helps users manage their daily tasks.
+
+**Features:**
+- Add new tasks
+- View all tasks with numbering
+- Remove tasks
+- Save tasks in a text file
+- Menu-driven interface
+
+**Technologies Used:** Python
+
+**Files:**
+- `todo_list.py`
+- `tasks.txt`
 
 ## Concepts Used
-
-- Variables
-- Functions
+- Python Functions
+- Lists
 - Conditional Statements
 - Loops
+- File Handling
 - Exception Handling
-- Modules and Imports
+- User Input and Output
 
-## How to Run
+## Tools Used
+- Python
+- Visual Studio Code
+- GitHub
 
-1. Open the project in VS Code.
-2. Open the terminal.
-3. Run the following command:
+## Author
+**Ushasri Bandam**
 
-python main.py
+GitHub: [ushasribandam59-pixel](https://github.com/ushasribandam59-pixel)
+
+## Conclusion
+These projects helped me strengthen my Python fundamentals and gain practical experience in developing simple command-line applications.
+
+Thank you for visiting my repository!
